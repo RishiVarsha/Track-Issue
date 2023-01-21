@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547182786842",
+    "project_id": "sign-in-pages",
+    "storage_bucket": "sign-in-pages.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547182786842:android:c4dce8c93e4e8db064d4a3",
+        "android_client_info": {
+          "package_name": "com.example.t7.buildu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547182786842-duglg1tj98b4cote138h2et7egud8jrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk4jAudxY865rE70dS6bBXpmdmD5DhoAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547182786842-duglg1tj98b4cote138h2et7egud8jrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
